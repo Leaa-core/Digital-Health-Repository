@@ -147,7 +147,7 @@ This project is part of an academic assignment (APP Project Sem 3).
 
 ## 👥 Authors
 
-- Mathew Geejo (@mathewgeejo)
+- lea , nivedha ,vasundhara
 
 ## 📞 Support
 
